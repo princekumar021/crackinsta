@@ -1,11 +1,11 @@
 {
-  "running": true,
-  "current_password": "hello",
+  "running": false,
+  "current_password": "hellohello123",
   "found_password": null,
-  "attempts": 41,
+  "attempts": 61,
   "total_passwords": 61,
-  "status": "checking passwords...",
-  "last_updated": "2026-06-30T22:40:10.011993",
+  "status": "completed - Correct: 0, Incorrect: 59, Uncertain: 2",
+  "last_updated": "2026-06-30T22:42:15.192744",
   "success": false,
   "passwords": [
     "hello",
@@ -110,7 +110,28 @@
       "hello12",
       "hello123",
       "hellohello12",
-      "hellohello1234"
+      "hellohello1234",
+      "hello",
+      "hello12",
+      "hello123",
+      "hellohello12",
+      "hellohello1234",
+      "hello",
+      "hello12",
+      "hello123",
+      "hellohello12",
+      "hellohello1234",
+      "hello",
+      "hello12",
+      "hello123",
+      "hellohello12",
+      "hellohello1234",
+      "hello",
+      "hello12",
+      "hello123",
+      "hellohello12",
+      "hellohello1234",
+      "hellohello123"
     ],
     "uncertain": [
       "hellohello1234",
@@ -357,6 +378,132 @@
       "result": "INCORRECT",
       "status_text": "\u274c Wrong password",
       "timestamp": "2026-06-30T22:40:08.006894"
+    },
+    {
+      "password": "hello",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:14.101100"
+    },
+    {
+      "password": "hello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:20.541967"
+    },
+    {
+      "password": "hello123",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:27.179690"
+    },
+    {
+      "password": "hellohello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:33.393502"
+    },
+    {
+      "password": "hellohello1234",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:39.845837"
+    },
+    {
+      "password": "hello",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:46.559130"
+    },
+    {
+      "password": "hello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:52.626129"
+    },
+    {
+      "password": "hello123",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:40:58.581276"
+    },
+    {
+      "password": "hellohello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:05.303550"
+    },
+    {
+      "password": "hellohello1234",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:10.995056"
+    },
+    {
+      "password": "hello",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:17.311521"
+    },
+    {
+      "password": "hello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:22.807461"
+    },
+    {
+      "password": "hello123",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:29.077181"
+    },
+    {
+      "password": "hellohello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:34.992763"
+    },
+    {
+      "password": "hellohello1234",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:44.072945"
+    },
+    {
+      "password": "hello",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:49.476957"
+    },
+    {
+      "password": "hello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:41:54.861279"
+    },
+    {
+      "password": "hello123",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:42:01.490810"
+    },
+    {
+      "password": "hellohello12",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:42:07.433677"
+    },
+    {
+      "password": "hellohello1234",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:42:13.187644"
+    },
+    {
+      "password": "hellohello123",
+      "result": "INCORRECT",
+      "status_text": "\u274c Wrong password",
+      "timestamp": "2026-06-30T22:42:19.230543"
     }
   ]
 }
